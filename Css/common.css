@@ -31,7 +31,7 @@ body{
 .header{
     grid-area: header;
     border-radius: 20px;
-    background-image: url("/Img/pexels-karolina-grabowska-5980859.jpg");
+    background-image: url("prueba_responsive_dp/Img/pexels-karolina-grabowska-5980859.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: center;
