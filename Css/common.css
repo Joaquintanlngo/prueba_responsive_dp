@@ -21,7 +21,7 @@ body{
     gap: 12px;
     padding: 8px;
     grid-template-rows: 200px auto auto 300px; /*CAMBIAR A 30% LA ULTIMA FILA CUANDO TERMINEMOS*/ 
-    background: url(https://github.com/Joaquintanlngo/prueba_responsive_dp/blob/main/Img/Bitcoin21feb.jpg);
+    background: url(https://github.com/Joaquintanlngo/prueba_responsive_dp/blob/main/Img/Bitcoin21feb.jpg?raw=true);
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: -350px;
@@ -31,7 +31,7 @@ body{
 .header{
     grid-area: header;
     border-radius: 20px;
-    background-image: url("https://github.com/Joaquintanlngo/prueba_responsive_dp/blob/main/Img/Bitcoin21feb.jpg");
+    background-image: url("https://github.com/Joaquintanlngo/prueba_responsive_dp/blob/main/Img/Bitcoin21feb.jpg?raw=true");
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: center;
