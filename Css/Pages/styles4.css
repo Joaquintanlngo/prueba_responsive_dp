@@ -101,3 +101,9 @@
   font-weight: bold;
   padding-left: 4px;
 }
+
+@media all and (max-width: 599px) {
+  .container_main {
+    padding: 0 0 12px 0; 
+  }
+}
